@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikefink22
 - 👀 I’m interested in too many things.
-- 🌱 I’m currently learning Cybersecurity, Java, Python and Data Science.
+- 🌱 I’m currently learning Cybersecurity, C#, Python and Data Science.
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me ...
 
