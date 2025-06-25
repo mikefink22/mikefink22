@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mikefink22
+- 👋 Hi, I’m @mike
 - 👀 I’m interested in too many things.
 - 🌱 I’m currently learning Cybersecurity, C#, Python and Data Science.
 - 💞️ I’m looking to collaborate on anything interesting.
