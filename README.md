@@ -6,6 +6,7 @@ I'm a passionate developer with a strong foundation in multiple programming lang
 Soy un desarrollador apasionado con una base sólida en múltiples lenguajes de programación y una creciente experiencia en desarrollo full-stack. Me encanta abordar problemas complejos y construir soluciones que generen un impacto real.
 
 ## 🌱 Currently Learning | Actualmente Aprendiendo
+- https://github.com/orgs/azure-ai-foundry/discussions/246
 - **Cybersecurity** - Security best practices and threat mitigation
 - **C#** - Advanced .NET development and enterprise applications  
 - **Python** - Backend development, APIs, and data science
