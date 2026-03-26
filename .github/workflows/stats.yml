@@ -26,3 +26,6 @@ jobs:
           output_action: push
           committer_branch: output
           committer_message: "feat: update metrics [skip ci]"
+
+          # Para asegurarme que crea la imagen en la rama output.
+          committer_token: ${{ secrets.METRICS_TOKEN }}
