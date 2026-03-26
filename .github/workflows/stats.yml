@@ -23,5 +23,6 @@ jobs:
           
           # Para ocultar la imagen
           filename: github-metrics.svg
-          output_action: commit
+          output_action: push
           committer_branch: output
+          committer_message: "feat: update metrics [skip ci]"
