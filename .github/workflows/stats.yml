@@ -9,7 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: generate-stats
-        uses: nicedoc/metrics@v3.28
+        uses: lowlighter/metrics@latest
+        env:
+          INPUT_COMMITTER_BRANCH: output
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: mikefink22
