@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: generate-stats
-        uses: lowlighter/metrics@v3.28
+        uses: lowlighter/metrics@v3.28.0
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: mikefink22
