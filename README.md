@@ -76,7 +76,7 @@ Estoy trabajando activamente en expandir mis capacidades de desarrollo full-stac
 
 ## 📊 GitHub Stats | Estadísticas de GitHub
 
-![GitHub Stats](https://github.com/mikefink22/mikefink22/raw/output/github-metrics.svg)
+![GitHub Stats](https://raw.githubusercontent.com/mikefink22/mikefink22/output/github-metrics.svg)
 
 ---
 *Always learning, always building, always improving.*
