@@ -1,6 +1,6 @@
-🌐 **English / Español** — click to expand (clickea para ocultar/mostrar)
+🌐 Bio & Overview — Choose language below / Elegí tu idioma abajo:
 
-<details open>
+<details>
 <summary><b>🇬🇧 English</b></summary>
 
 # 👋 Hi, I'm @mikefink22!
