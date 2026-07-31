@@ -1,4 +1,4 @@
-🌐 Bio & Overview — Choose language below / Elegí tu idioma abajo:
+## 🌐 Bio & Overview — Choose language below / Elegí tu idioma abajo:
 
 <details>
 <summary><b>🇬🇧 English</b></summary>
