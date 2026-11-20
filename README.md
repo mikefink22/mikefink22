@@ -40,10 +40,6 @@ Android mobile app for a sports club built with Kotlin in Android Studio. Covers
 - **Mobile:** Kotlin · Android Studio
 - **Tools:** Git & GitHub · MySQL Workbench · VS Code · Agile Methodologies
 
-## 🤔 How to reach me
-
-- LinkedIn: [in/miguel-flores-3211b398](https://linkedin.com/in/miguel-flores-3211b398)
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://raw.githubusercontent.com/mikefink22/mikefink22/output/github-metrics.svg)
@@ -94,10 +90,6 @@ Aplicación móvil Android para un club deportivo desarrollada con Kotlin en And
 - **Frontend:** HTML5 · CSS3 · JavaScript (ES6+) · Bootstrap 5
 - **Mobile:** Kotlin · Android Studio
 - **Herramientas:** Git & GitHub · MySQL Workbench · VS Code · Metodologías Ágiles
-
-## 🤔 Cómo contactarme
-
-- LinkedIn: [in/miguel-flores-3211b398](https://linkedin.com/in/miguel-flores-3211b398)
 
 ## 📊 Estadísticas de GitHub
 
